@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epitomererumroma00floruoft_0215.png"; bbox 0 0 1832 3106; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 449 944 668 2177">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 449 944 668 2177">
+     <span class='ocr_line' id='line_1_1' title="bbox 449 1446 543 2177; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 489 1951 543 2177; x_wconf 82' lang='lat' dir='ltr'>Florus,</span> <span class='ocrx_word' id='word_1_2' title='bbox 486 1714 531 1910; x_wconf 71' lang='lat' dir='ltr'><strong>Lucius</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 449 1446 531 1675; x_wconf 55' lang='lat' dir='ltr'><strong>Axxfiaeus</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 550 944 611 2043; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 556 1811 611 2043; x_wconf 63' lang='lat' dir='ltr'><strong>Epitome</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 566 1610 598 1775; x_wconf 78' lang='lat' dir='ltr'><strong>rerum</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 553 1183 597 1576; x_wconf 75' lang='lat' dir='ltr'><strong>Romanarum...</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 552 1049 595 1141; x_wconf 72' lang='lat' dir='ltr'><strong>tr.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 550 944 606 1009; x_wconf 78' lang='lat' dir='ltr'><strong>by</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 621 1683 668 2174; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 621 1949 668 2174; x_wconf 77' lang='lat' dir='ltr'>Clarke.</span> <span class='ocrx_word' id='word_1_10' title='bbox 621 1683 667 1842; x_wconf 83' lang='lat' dir='ltr'><strong>Ed.7.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1622 2698">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1622 2698">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1622 2698; textangle 90"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1622 2698; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
